@@ -20,17 +20,17 @@ Autonomous Vehicles
 
 Robotics
 
-.Autonomy: Operate independently or semi-independently.
+Autonomy: Operate independently or semi-independently.
 
-.Path planning: Determine efficient movement paths.
+Path planning: Determine efficient movement paths.
 
-.Object manipulation: Pick, move, and interact with objects.
+Object manipulation: Pick, move, and interact with objects.
 
-.Sensor integration: Use vision, touch, and audio sensors.
+Sensor integration: Use vision, touch, and audio sensors.
 
-.Human-robot interaction: Communicate with humans using speech or gestures.
+Human-robot interaction: Communicate with humans using speech or gestures.
 
-.Mobility: Wheels, legs, or flying capability for movement.
+Mobility: Wheels, legs, or flying capability for movement.
 
 
 
@@ -104,18 +104,18 @@ In Robotics
 
 .Visual Data: From cameras (used for object detection, classification)
 
-.Distance/Depth: From LiDAR, radar (used for obstacle detection)
+Distance/Depth: From LiDAR, radar (used for obstacle detection)
 
-.Location Data: GPS + IMU for positioning
+Location Data: GPS + IMU for positioning
 
-.Behavioral Data: Vehicle dynamics (speed, acceleration), user interaction
+Behavioral Data: Vehicle dynamics (speed, acceleration), user interaction
 
-.Environment Data: Weather, road conditions, traffic data
+Environment Data: Weather, road conditions, traffic data
 
 Storage & Processing
 
-.Onboard Storage: Edge devices store data locally
+Onboard Storage: Edge devices store data locally
 
-.Cloud Storage: Data offloaded for analysis and model training
+Cloud Storage: Data offloaded for analysis and model training
 
-.Real-time Processing: Critical data is processed on the fly for safety
+Real-time Processing: Critical data is processed on the fly for safety
