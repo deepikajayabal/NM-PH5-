@@ -100,7 +100,8 @@ In Robotics
 
 5. Feedback loop: Sensors continuously update the robot, allowing it to adjust its actions
 
-4. TYPES OF DATA COLLECTION
+ 
+ 4.TYPES OF DATA COLLECTION
 
 .Visual Data: From cameras (used for object detection, classification)
 
